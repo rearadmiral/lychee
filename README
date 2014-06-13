@@ -1,0 +1,3 @@
+guava + lychee = delicious!
+
+Generic util helper type stuff I've built on top of Java+Guava to make it a little more pleasant to use
